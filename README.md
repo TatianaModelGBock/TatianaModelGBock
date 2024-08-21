@@ -2,8 +2,6 @@
 
 ###
 
-<br clear="both">
-
 <p align="left">Profissional em Desenvolvimento Backend: Atualmente cursando Tecnólogo em Análise e Desenvolvimento de Sistemas, com foco em Java e desenvolvimento de bancos de dados.<br><br>Experiência Prática: Contribuí para projetos open source, desenvolvendo e otimizando funcionalidades backend com Java, Spring Boot e PostgreSQL.<br><br>Base Sólida em Tecnologia: Forte compreensão de algoritmos, estruturas de dados e modelagem de banco de dados, adquirida através de cursos complementares e projetos práticos.<br><br>Comprometida com a Qualidade: Foco em boas práticas de programação e entrega de soluções eficientes e escaláveis.<br><br>Acompanhamento das Tendências: Interesse em programação orientada a objetos e atualização constante com as últimas tendências tecnológicas.<br><br>Objetivo Profissional: Buscar oportunidades para aplicar e expandir conhecimentos em ambientes colaborativos e desafiadores, contribuindo para projetos inovadores e de alta qualidade.</p>
 
 ###
@@ -51,6 +49,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TatianaModelGBock&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TatianaModelGBock&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=TatianaModelGBock&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=TatianaModelGBock&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TatianaModelGBock&radius=16&theme=redical&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
