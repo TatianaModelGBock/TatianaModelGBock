@@ -1,4 +1,4 @@
-<h2 align="left">About Me</h2>
+<h2 align="center">About Me</h2>
 
 ###
 
@@ -11,6 +11,12 @@
 <br clear="both">
 
 <h2 align="center">Techs</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=TatianaModelGBock&theme=radical" alt="Layout with last medium posts"  />
+</div>
 
 ###
 
@@ -56,9 +62,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/TatianaModelGBock/count.svg?"  />
-</div>
+<h2 align="center">Social Media</h2>
 
 ###
 
